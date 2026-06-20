@@ -8,6 +8,7 @@ int main() {
     cout << "___ kalkulator sederhana 1.2 ---" << endl;
     cout << "1. penjumlahan\n2. pengurangan\n3. perkalian\n4. pembagian\n5. keluar" << endl;
     cout << "masukan pilihan: ";
+    cout << endl;
     cin >> pilihan;
     
 
